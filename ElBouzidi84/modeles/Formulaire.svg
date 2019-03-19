@@ -9,11 +9,10 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
-   width="936px"
-   height="551px"
-   viewBox="-0.5 -0.5 936 551"
+   width="800"
+   height="600"
+   viewBox="-0.5 -0.5 800.00003 599.99999"
    content="&lt;mxfile modified=&quot;2019-03-19T14:35:49.960Z&quot; host=&quot;www.draw.io&quot; agent=&quot;Mozilla/5.0 (Windows NT 6.2; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36&quot; etag=&quot;4vmuu_8k8-mfpb_7Er3t&quot; version=&quot;10.5.0&quot; type=&quot;google&quot;&gt;&lt;diagram id=&quot;HAj5U8LozS5jEKpSh84t&quot; name=&quot;Page-1&quot;&gt;3Zpbc5s4GIZ/jS+bASRxuEzdpHux6Waa2d1mb3a0RrE1BeTKcmP3168UxEnCKSYxcpqLDPoQAj16+Q7CMzDPdx85Xq9uWEqyWeCluxn4MAuC2IPyvzLsSwP0UWlYcpqWJr8x3NEfRBs9bd3SlGw6HQVjmaDrrnHBioIsRMeGOWeP3W4PLOvedY2XxDLcLXBmW/+mqVhV05J/zZnfCF2u9L3D5lSOq/7asFnhlD22TOBqBuacMVEe5bs5yRS+Ck153fWBs/WzcVKIIRf88OL7f/ju+o/4Jv6dFMm36PO/72BUDvMdZ1s9af20Yl9RkMNI4LLx/nFFBblb44U68yiXXNpWIs9ky5eHeijCBdkdfEi/nrpUDWE5EXwvu1QXaIFUgkEa3mODPwG6z6oFHsS6I9ZLvqyHbpDIA03lCEIBPC9ClZw0IRTbhILEswn5wakI+cnPCUnxr9XhiuzwkhUSxZpwKu9PeGO9rUzBJCTDLkkY2CQRmJakBfIjY0vJMPCuGc83FlbOtkVK1JDeJMiiLrKgR3x+1IMsPBWx0CKmQG0zTDlxTguhAbjCKXHZb+oNW+E8l1DewhvrAzM8IBuo1wMUneyN9Syic5xjjlXeEoQ4VxCK/zbrGsCZIzZfcRj2aHZaxIGF+KrYyDsXWE7pLTCFnsHUvWztpGbOZ3Mwu0wkJ5fpjRGUQ68nAZzSY1YJaYvUJ6bEJKsa9Yp737ZkI6gsQFTIsSP0pMlzfG7w7PAsa0T6QB2LDAADlO8alF2G3RAhVA7jkeKpdOW5ndBMyQyic2MWW8xuMReyIncrLhSdGaiqHLNdmENK0dlRAhaly7/+/GRBklMWXRobwdlXMmcZUylGwQpF8IFmmWHCmcxZZHMhEals5L0CSBc4u9Qncpqm2SH83eLlNZygmZUAewVgzwqcrPoN7FA7Z8UDXW55j1h/mXXwYbeoCSPX62AHo89lbrhmRdpTV0+aH56b3wC2d7UBFeml2o5uNNiCIifO91+Uni6CsGrfq5MXXt3+sNOCK1v7duu2VeA8GXdUlOOBKNTt+9a5ZizV2Lca5kjlREhq7ZIbqyUny7Z8QZ4Tla44BOZLIp7pmPQvf3tT7plKiZMMC/q9+7x9a67vcMuoKiKbDLr7Ltb7f9UQ5Tz1VY1y7IGMbAl5xkAlB2ugJwnW036BKu1oNlqVqCPKnymyFl8AYVt8F75L+VWVyHnLDxzKsY+VX2AMBJOJ5Tfko8mz8mtkpGi1ZSRrpWOF1BJzBA0XG4xxsa+pzOhNKNPclzGzj6HKBF7kVpl21ThWmSBCw6Nro0AIfUOC0lm71WAyUIIHUrOJYrPx5ROOlaAPuwMBc5v1xBKE9me+0bE5MvzZ4OgMUDs1fOddeGP96il9YzxUmE6dYx2mq2TPFNRQZaLYbdiGr1jLjMwah7tUFzoLncrM2LVGY7PD0JSZWRyfWmavWJzEcdQWmvSIaEwwbeWbcWI4xjI8Oyuch+aHbn2g+VuHehf8aHEa25LIDPOnFueLS5dWdD7KCQ4XzXn7qcgIh6Or2MhweBBOLAV7Q3q0FJIw7vopFI/K+g8Wxk59VPAmfFRo+qixeVpk+qiJd/eg/V39SGG6zbfKx3Xmn4xCcvReRhiHnYFAFTteLAPZbH4YXnZvfmAPrv4H&lt;/diagram&gt;&lt;/mxfile&gt;"
-   style="background-color: rgb(255, 255, 255);"
    id="svg140"
    sodipodi:docname="Formulaire.svg"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
@@ -48,12 +47,13 @@
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg140" />
+     inkscape:current-layer="svg140"
+     units="px" />
   <defs
      id="defs2" />
   <g
      id="g138"
-     transform="matrix(0.85470091,0,0,1.0889291,73.671472,-48.895017)">
+     transform="matrix(0.84901671,0,0,1.199514,2.7115943,-58.037186)">
     <ellipse
        cx="468"
        cy="360"
@@ -78,15 +78,15 @@
        inkscape:connector-curvature="0"
        style="fill:#ffffff;stroke:#000000;stroke-miterlimit:10" />
     <rect
-       x="55"
-       y="0"
+       x="24.238205"
+       y="50.704388"
        width="170"
        height="60"
        pointer-events="none"
        id="rect10"
        style="fill:#ffffff;stroke:#000000" />
     <g
-       transform="translate(101.5,23.5)"
+       transform="matrix(1,0,0,-1.1439841,70.738204,88.445135)"
        id="g16">
       <switch
          id="switch14">
@@ -111,15 +111,15 @@
       </switch>
     </g>
     <rect
-       x="535"
-       y="0"
+       x="511"
+       y="64"
        width="160"
        height="60"
        pointer-events="none"
        id="rect18"
        style="fill:#ffffff;stroke:#000000" />
     <g
-       transform="translate(585.5,23.5)"
+       transform="translate(563.96674,79.033377)"
        id="g24">
       <switch
          id="switch22">
@@ -542,12 +542,12 @@
        inkscape:connector-curvature="0"
        style="fill:none;stroke:#000000;stroke-miterlimit:10" />
     <path
-       d="M 158,175 130,62"
+       d="M 158.06864,175.01264 129.93136,112.69175"
        stroke-miterlimit="10"
        pointer-events="none"
        id="path124"
        inkscape:connector-curvature="0"
-       style="fill:none;stroke:#000000;stroke-miterlimit:10" />
+       style="fill:none;stroke:#000000;stroke-width:0.74445707;stroke-miterlimit:10" />
     <path
        d="M 587,329 455,260"
        stroke-miterlimit="10"
@@ -556,12 +556,12 @@
        inkscape:connector-curvature="0"
        style="fill:none;stroke:#000000;stroke-miterlimit:10" />
     <path
-       d="M 600,330 615,60"
+       d="M 586.98377,328.99488 602.01623,124.19647"
        stroke-miterlimit="10"
        pointer-events="none"
        id="path128"
        inkscape:connector-curvature="0"
-       style="fill:none;stroke:#000000;stroke-miterlimit:10" />
+       style="fill:none;stroke:#000000;stroke-width:0.8718679;stroke-miterlimit:10" />
     <path
        d="M 681,328 515,230"
        stroke-miterlimit="10"
@@ -570,25 +570,25 @@
        inkscape:connector-curvature="0"
        style="fill:none;stroke:#000000;stroke-miterlimit:10" />
     <path
-       d="M 695,330 655,60"
+       d="M 710.76686,333.93021 634.31898,129.26114"
        stroke-miterlimit="10"
        pointer-events="none"
        id="path132"
        inkscape:connector-curvature="0"
-       style="fill:none;stroke:#000000;stroke-miterlimit:10" />
+       style="fill:none;stroke:#000000;stroke-width:1.20364094;stroke-miterlimit:10" />
     <path
-       d="M 775,330 558,210"
+       d="M 761.22099,339.29557 575.01721,200.0204"
        stroke-miterlimit="10"
        pointer-events="none"
        id="path134"
        inkscape:connector-curvature="0"
-       style="fill:none;stroke:#000000;stroke-miterlimit:10" />
+       style="fill:none;stroke:#000000;stroke-width:0.99795425;stroke-miterlimit:10" />
     <path
-       d="M 800,330 671,64"
+       d="M 792.00525,344.31531 662.92411,111.91226"
        stroke-miterlimit="10"
        pointer-events="none"
        id="path136"
        inkscape:connector-curvature="0"
-       style="fill:none;stroke:#000000;stroke-miterlimit:10" />
+       style="fill:none;stroke:#000000;stroke-width:0.93501085;stroke-miterlimit:10" />
   </g>
 </svg>
